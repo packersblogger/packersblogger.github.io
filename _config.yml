@@ -23,7 +23,7 @@ twitter_username: GFY
 github_username:  packersblogger
 # Disqus Comments
 disqus:
-  shortname: https-packersblogger-github-io-1
+  shortname: https-packersblogger-github-io
 # Build settings
 markdown: kramdown
 theme: minima
