@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Give A Rod a Defense "
-date:   2019-09-13 13:37:37 -0600
+date:   2019-09-13
 author: Tom W
 permalink: /tommies/
 ---
