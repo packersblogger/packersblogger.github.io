@@ -16,10 +16,10 @@
 title: Packers Blogger
 email: packersblogger@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  blog site for featured weekly submissions from family members
+  Wisconsin Sports (Packers, Brewers, Bucks, Badgers) blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://packersblogger.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: GFY
+twitter_username: @r3weber
 github_username:  packersblogger
 # Disqus Comments
 disqus:
@@ -29,6 +29,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyl-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
