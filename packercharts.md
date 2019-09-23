@@ -17,4 +17,4 @@ permalink: /packercharts/
 
 {% include packersDVOA_offense.html %}
 
-*go to https://www.footballoutsiders.com/stats/teameff for more info*
+*go to <a href="https://www.footballoutsiders.com/stats/teameff/2019">Football Outsiders</a>for more info*
