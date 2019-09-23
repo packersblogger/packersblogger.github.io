@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Packer Charts
-permalink: /charts/
+permalink: /packercharts/
 ---
 
 *We start with 2010 for Packer related stuff because that is the year the Packers won Super Bowl XLV and the following season finished 15-1.*

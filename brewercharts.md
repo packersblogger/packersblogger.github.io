@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brewers Charts
-permalink: /charts/
+permalink: /brewerscharts/
 ---
 
 # NL Central Contenders 2019 Team ERA
