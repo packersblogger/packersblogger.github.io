@@ -12,9 +12,13 @@ permalink: /packercharts/
 # NFC North Offensive Pts/G 2010-Current
 {% include packersO.html %}
 
-# NFC North Offensive Efficiency 
+# NFC North Efficiency 
 *Defense-adjusted Value Over Average (DVOA) and League Rank*
 
+## Offensive Efficiency
 {% include packersDVOA_offense.html %}
 
-*go to <a href="https://www.footballoutsiders.com/stats/teameff/2019">Football Outsiders</a>for more info*
+## Defensive Efficiency
+{% include packersDVOA_defense.html %}
+
+*go to <a href="https://www.footballoutsiders.com/stats/teameff/2019">Football Outsiders</a> for more info*
