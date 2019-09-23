@@ -15,10 +15,10 @@ permalink: /packercharts/
 # NFC North Efficiency 
 *Defense-adjusted Value Over Average (DVOA) and League Rank*
 
-## Offensive Efficiency
+**Offensive Efficiency**
 {% include packersDVOA_offense.html %}
 
-## Defensive Efficiency
+**Defensive Efficiency**
 {% include packersDVOA_defense.html %}
 
 *go to <a href="https://www.footballoutsiders.com/stats/teameff/2019">Football Outsiders</a> for more info*
