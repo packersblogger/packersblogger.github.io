@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Charts
+title: Packer Charts
 permalink: /charts/
 ---
 
@@ -11,6 +11,3 @@ permalink: /charts/
 
 # NFC North Offensive Pts/G 2010-Current
 {% include packersO.html %}
-
-# NL Central Conteders Team ERA 2019
-{% include brewersERA.html %}
