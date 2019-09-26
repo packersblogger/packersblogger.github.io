@@ -22,9 +22,14 @@ permalink: /week3/
 * Our secondary must continue to blanket receivers make Wentz be an NFL quarterback, he's talented and their offense is dynamic with the Penn state product Sanders out of the backfield but as said earlier, force him to make contested completions. 
 * 20 King needs a bounce back game as he was worked by Sutton last week on too many plays.
 
+
 # Player matchups
 * If 55 is banged up I'm looking at 52 to fill that void (lets get it kid)
-
+* Packers Safeties, Darnell Savage and Adrian Amos vs. Zach Ertz will be key to slowing the Eagle Offense
+<figure style= "float:right">
+  <img src="/assets/images/savage.jpg" alt="davantaeadams">
+  <figcaption>Savage is a baller</figcaption>
+</figure>
 * Jaire continue to be a star and ladies and gentleman lets not freak out eveytime Rodgers and Lafleur argue as this is FOOTBALL
 
 # Prediction
