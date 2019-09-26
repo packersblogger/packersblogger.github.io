@@ -26,13 +26,13 @@ permalink: /week3/
 # Player matchups
 * If 55 is banged up I'm looking at 52 to fill that void (lets get it kid)
 * Packers Safeties, Darnell Savage and Adrian Amos vs. Zach Ertz will be key to slowing the Eagle Offense
+* Jaire continue to be a star and ladies and gentleman lets not freak out eveytime Rodgers and Lafleur argue as this is FOOTBALL
 
 <figure style= "float:right">
   <img src="/assets/images/savage.JPG" alt="darnellsavage">
   <figcaption>Savage is a baller</figcaption>
 </figure>
 
-* Jaire continue to be a star and ladies and gentleman lets not freak out eveytime Rodgers and Lafleur argue as this is FOOTBALL
 
 # Prediction
 **31-20 PACK**
