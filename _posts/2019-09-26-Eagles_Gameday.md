@@ -11,8 +11,8 @@ permalink: /week3/
 * Keep 12 upright and clean. 
 * Looking for Jimmy to be involved more within the offense Id like to see him matched up wide reminiscent of his saints days. Though he is clearly not the same player in fact he was terrible last week, he still has the same physical attributes - he's bigger than anyone that is going to try and cover him. 
 * 17 Adams needs more than four targets and should be looked at early with some quick hitters to get him in the flow more.
-<figure>
-  <img src="/assets/images/davantae.jpg" alt="davantaeadams" style="float:right">
+<figure style= "float:right">
+  <img src="/assets/images/davantae.jpg" alt="davantaeadams">
   <figcaption>Adams needs a big game</figcaption>
 </figure>
 
