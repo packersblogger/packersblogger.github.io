@@ -11,10 +11,14 @@ permalink: /week3/
 * Keep 12 upright and clean. 
 * Looking for Jimmy to be involved more within the offense Id like to see him matched up wide reminiscent of his saints days. Though he is clearly not the same player in fact he was terrible last week, he still has the same physical attributes - he's bigger than anyone that is going to try and cover him. 
 * 17 Adams needs more than four targets and should be looked at early with some quick hitters to get him in the flow more.
+<figure>
+  <img src="/assets/images/davantae.jpg" alt="davantaeadams" style="float:right">
+  <figcaption>Adams needs a big game</figcaption>
+</figure>
 
 # Defense-
 * Continue to wreak havoc with the pass rush and keep Wentz in the pocket force him to make NFL throws(much like Trubisky) and limit the easy uncontested completions. 
-* Career Backup Doug Pedro has some tricks up his sleeve with some gadget plays and need to be aware of that. 
+* Backup Doug has some tricks up his sleeve with some gadget plays and need to be aware of that. 
 * Our secondary must continue to blanket receivers make Wentz be an NFL quarterback, he's talented and their offense is dynamic with the Penn state product Sanders out of the backfield but as said earlier, force him to make contested completions. 
 * 20 King needs a bounce back game as he was worked by Sutton last week on too many plays.
 
