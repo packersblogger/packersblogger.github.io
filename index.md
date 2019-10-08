@@ -5,6 +5,6 @@
 layout: home
 ---
 <figure style= "float:right">
-  <img src="https://media.giphy.com/media/26gsgGJbvun8qqUDu/giphy.gif" alt="rodgers" border-radius= "15px">
+  <img src="https://media.giphy.com/media/26gsgGJbvun8qqUDu/giphy.gif" alt="rodgers" style="border-radius: 8px">
 </figure>
 Welcome to the totally biased Wisco Sports.  Not wanting to be confused with real journalism because that stuff is all fake now anyway, we just deliver high quality content and expand on universal truths like the State of Illinois is full of examples of what not to do.
