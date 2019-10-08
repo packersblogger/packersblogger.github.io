@@ -9,7 +9,7 @@ layout: home
   
 </figure>
 
-<figure style= "float:right">
+<figure style= "float:left">
   <img src="https://media.giphy.com/media/26gsgGJbvun8qqUDu/giphy.gif" alt="rodgers">
   
 </figure>
