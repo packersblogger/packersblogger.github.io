@@ -3,6 +3,7 @@ layout: post
 title:  "Agonozing Loss for Brewers Brings Me to My Next Point"
 author: S J W
 thumbnail: /assets/images/yellich.jpg
+excerpt: true
 permalink: /bearssuck/
 ---
 # Tough Loss to Washington
