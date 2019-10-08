@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Agonozing Loss for Brewers Brings Me to My Next Point"
+title:  "Agonizing Loss for Brewers Brings Me to My Next Point"
 author: S J W
 thumbnail: /assets/images/yellich.jpg
 excerpt: 'These are not the loveable losers in the Cubs, being so embarrassing that they couldn’t win a World Series in 100+ years despite unlimited resources.'
