@@ -2,7 +2,7 @@
 layout: post
 title:  "Agonozing Loss for Brewers Brings Me to My Next Point"
 author: S J W
-thumbnail: /assets/images/yellich.jpeg
+thumbnail: /assets/images/yellich.jpg
 permalink: /bearssuck/
 ---
 # Tough Loss to Washington
@@ -13,7 +13,7 @@ Yes, the Brewers season is over, and to be honest it’s nothing new for Wiscons
 # Stearns and Counsell On the Same Page
 The Brewers only year since 2005 that was even remotely comparable to such futility was 68 wins in 2015. The job that David Stearns and Craig Counsell have done, and the partnership they have formed is something to be excited about going forward.
 <figure style= "float:right">
-  <img src="assets\images\craigStearns.jpg" alt="craigcounselldavidstearns">
+  <img src="/assets/images/craigStearns.jpg" alt="craigcounselldavidstearns">
   <figcaption>Slow and Steady at the Top for the Crew</figcaption>
 </figure>
 Looking at one example in particular, the moves Stearns made at the trade deadline. He acquired cast offs and guys that were on the fringe of being released outright, but he gave Counsell exactly what he was looking for and needed to manage that way he wanted to manage. The result was the most successfully impactful acquisitions any team made – yes that is compared to the acquisition of premier players like Zach Grienke whom the Astros traded for, or the Cubs paying more to get Craig Kimbrel. Theo Epstein by the way, for all the great success and ass kissing he’s had in his career as a personnel manager, has done no better than a 10-year-old playing the franchise mode in the Madden video game. He has time and time again just thrown money out the window for big named free agents who end up being some of the biggest liabilities on the team – i.e. Jason Heyward and Yu Darvish. To have a GM and team manager have the chemistry that Stearns and Counsell do is something that could make this organization special for a long time to come. 
