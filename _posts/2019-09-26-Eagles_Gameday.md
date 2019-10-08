@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 3 - Eagles - Home"
-author: Tom W
+author: T E W
 thumbnail: /assets/images/tom.jpg
 permalink: /week3/
 ---
