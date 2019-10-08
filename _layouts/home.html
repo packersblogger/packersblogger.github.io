@@ -24,7 +24,7 @@ layout: default
           </a>
         </h3>
         {{ post.author }}
-        {%- if post.excerpt -%}
+        {%- if site.show_excerpt -%}
           {{ post.excerpt }}
         {%- endif -%}
       </li>
