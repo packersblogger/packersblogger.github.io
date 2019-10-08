@@ -20,10 +20,11 @@ layout: default
           <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" style="border-radius: 8px"/>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
-            {{ post.author | escape }}
+            
           </a>
         </h3>
         {%- if site.show_excerpts -%}
+          {{ post.author }}
           {{ post.excerpt }}
         {%- endif -%}
       </li>
