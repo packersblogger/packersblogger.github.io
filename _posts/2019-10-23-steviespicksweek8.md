@@ -19,7 +19,9 @@ Lions cover. The Lions aren’t a bad team, and they are still so frustrated wit
 >never mind the Packers were the reason the goddamn replacement refs got fired in the “failmary” game, so just shut the hell up Detroit, and put up another couple billboards to make yourselves feel better. 
 
 But yea, they use that pent-up frustration to really right the ship this week and put them back on track for their 8-8 year.
-TB +2.5 vs Tenn – who is actually going to watch this game, but sure, I’ll take the Bucs with the points on the road.
+
+## **TB +2.5 vs Tenn** – 
+who is actually going to watch this game, but sure, I’ll take the Bucs with the points on the road.
 
 ## **LAC +4 vs Chicago** – 
 Coach Nagy is so cool. Did you happen to see his response to how shitty his offense is? Nagy went on some tangent about how he’s not going to let the media tear his team apart. Good for you, back against the wall, everyone is against you, let’s rise to the challenge! Why don’t you try running the ball on that fucked up field of yours more than 10 times a game – maybe at least you won’t lose by 3 scores at home then. My hatred for the Bears aside, I do see them bouncing back somewhat this week and covering the 4 points.
