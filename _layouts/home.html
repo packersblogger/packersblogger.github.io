@@ -6,11 +6,11 @@ layout: default
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-  <video width="420" height="340" controls loop>
-    <source src="assets/video/filtered-2F090F34-A9E1-40F0-A091-2D0CB6262BC8.MP4" type=video/mp4>
-  </video>
+ 
   {{ content }}
-
+ <video width="420" height="340" float="right" autoplay loop>
+    <source src="assets/video/filtered-2F090F34-A9E1-40F0-A091-2D0CB6262BC8.MP4" type=video/mp4>
+</video>
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Latest Posts" }}</h2>
     <ul class="post-list">
