@@ -2,7 +2,7 @@
 layout: post
 title:  "Steves Picks Week 8"
 author: S J W
-thumbnail: /assets/images/stevethumb.jpg
+thumbnail: /assets/images/tommikethumb.jpg
 permalink: /stevespicksweek8/
 ---
 *2nd team listed is home team*
