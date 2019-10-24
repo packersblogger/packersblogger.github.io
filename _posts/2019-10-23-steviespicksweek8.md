@@ -37,8 +37,10 @@ Rams. All fucking day Rams. Cinci is so bad I don’t know what else to say.
 I’ll take Houston who needs a win. 
 
 ## **Carolina +5.5 vs San Fran** – 
->oooooo, two teams that know deep down that they aren’t that good, 
-but just keep looking at their record and thinking “maybe we are actually half way decent”. Well both teams are not that good and are going to get lit the fuck up in the playoffs (assuming Carolina makes it, which actually they won’t so don’t even worry about them). But I’ll take San Fran I guess. East coast team going West, albeit in that corporate as fuck stadium of San Fran which isn’t even in San Fran I don’t think, and a rookie QB going up a good SF defense, I think San Fran wins by a touchdown. 
+>oooooo, two teams that know deep down that they aren’t that good,
+but just keep looking at their record and thinking “maybe we are actually half way decent”. 
+
+Well both teams are not that good and are going to get lit the fuck up in the playoffs (assuming Carolina makes it, which actually they won’t so don’t even worry about them). But I’ll take San Fran I guess. East coast team going West, albeit in that corporate as fuck stadium of San Fran which isn’t even in San Fran I don’t think, and a rookie QB going up a good SF defense, I think San Fran wins by a touchdown. 
 
 ## **Denver +5.5 vs Indy** – 
 I don’t even care what the line is for Denver going forward. I will bet against Joe Flacco all the days of my life until the last one. And that’s not to say that Denver won’t here or there cover a spread or win with the points, but it’s because >I won’t live my life knowing I lost even a dollar betting on Joe Flacco. 
@@ -53,6 +55,7 @@ I don’t disclose my Packer picks. *So from RCW:* **Its the Packers.** This wil
 
 ## **Miami +14.5 vs Pittsburgh** *(Monday Night – wow, what a tight game!)* –
 >Miami is really bad. 
+
 14.5 is a lot for a team like Pittsburgh to cover, but Miami really is that bad. Only thing is this is on Monday night, >so the refs will find a way to keep this close – I’ll take Miami with the points
 
 
