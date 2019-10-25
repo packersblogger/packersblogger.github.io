@@ -4,6 +4,7 @@ title:  "Steves Picks Week 9"
 author: S J W
 thumbnail: /assets/images/tommikethumb.jpg
 permalink: /stevespicksweek9/
+published: false
 ---
 
 ## **SF (0) at ARI (0)** 
