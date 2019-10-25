@@ -37,7 +37,7 @@ But yea, they use that pent-up frustration to really right the ship this week an
 I’ll take Houston who needs a win.
 
 ## **NYJ (0) at JAX (0)**
-## **NY Jets +6**  
+### **NY Jets +6**  
 Can we just start to implement games not being played and just auto sim in Madden or something. Seriously, what a waste of time this game is. I’ll take the Jets with the points. Darnold might be seeing Jalen Ramsey’s ghost out there, but the rest of Jasonville’s roster is bad enough where that won’t matter.
 
 ## **CIN (0) at LA (0)** 
