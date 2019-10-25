@@ -1,0 +1,4 @@
+#!/home/r3weber/Desktop/packersblogger.github.io/assets/virtualenv/ENV/bin/python
+
+import nflgame.update_sched
+nflgame.update_sched.run()
