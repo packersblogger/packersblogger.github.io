@@ -7,4 +7,4 @@ layout: home
 <figure style= "float:right">
   <img src="assets/images/maxwhiff.gif" alt="wescoe" style="border-radius: 8px">
 </figure>
-Welcome to the totally biased Wisco Sports.  Not wanting to be confused with real journalism because that stuff is all fake now anyway, we just deliver high quality content and expand on universal truths like the State of Illinois is full of examples of what not to do.
+Welcome to the totally biased Wisco Sports.  Not wanting to be confused with real journalism because that stuff is all fake now anyway, we just deliver high quality content and expand on universal truths.
