@@ -6,7 +6,7 @@ thumbnail: /assets/images/tommikethumb.jpg
 permalink: /stevespicksweek8/
 ---
 
-## **WAS (9) at MIN (19)** 
+## **WAS (9) at MIN (0)** 
 ### **Redskins +16** *(Thursday Night)* 
 I like the Vikings to cover. 
 >I hate the Vikings pretty much more than anything else in life, but at home they play well.
