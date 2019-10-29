@@ -70,7 +70,7 @@ I think Cleveland plays halfway decent and forces this to be a low scoring game.
 ### **Green Bay -4** *(Sunday Night)*  
 I don’t disclose my Packer picks. *So from RCW:* **Its the Packers.** This will look like the Dallas game, with the Packers playing with the lead for the majority of the game. The blueprint is out there for how to defeat KC they were annointed ones going into the season but even before the Mahomes injury they showed vulnerabilities week to week.  The Packers are rolling at the moment so I see them overcoming the hostile environment silencing the home crowd to the tune of 31-20. It will be a statement win.
 
-## **MIA (0) at PIT (0)** 
+## **MIA (14) at PIT (27)** 
 ### **Miami +14.5** *(Monday Night – wow, what a tight game!)*
 >Miami is really bad. 
 
