@@ -4,7 +4,7 @@ title:  "Steves Picks Week 9"
 author: S J W
 thumbnail: /assets/images/tommikethumb.jpg
 permalink: /stevespicksweek9/
-published: false
+published: true
 ---
 
 ## **SF (28) at ARI (25)** 
