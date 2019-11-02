@@ -12,12 +12,12 @@ published: true
 San Fran covers the 10 points. Their defense is really actually good contrary to what I said about the team as a whole last week. Kyler might get knocked out, and AZ really doesn’t have any other playmakers on offense since their top 2 RB’s are hurt and as a result they went in full on desperation mode to make a trade with the worst roster in football in Miami for Kenyon Drake. San Fran will score 27 or something and AZ will be lucky to get to 13.
 
 ## **HOU (0) at JAX (0)-9:30 ET** *London*
-**Buffalo -9.5**
-I know I used a derivation of this a few times last week, but really, what team playing the Redskins, even when they are like a 6+ win team, would make the matchup worthy of tuning in for more than like 2 or 3 snaps? I can tell you it certainly is not a Buffalo team led by Kyle Allen. I know Buffalo is respectable this year, but jfc who cares about this matchup? 
+**Houston -1**
+I like Houston to cover. I still don’t get why everyone acts like playing in Jax means anything. If I’m being honest, I don’t know shit about either team, other than Houston actually has some recognizable players. I know JJ went down, but Watson is good and he’ll be riding the whole he’s the “Michael Jordan of football” mantra (Dabo Swinney’s words not mine)after almost losing his eye last week. 
 
 ## **WAS (0) at BUF (0)-1:00 ET** 
-**Carolina -3.5**
-Not sure if Cam is back, and not that I think he will be much of an improvement over Kyle Allen (I think that’s his name?), but Carolina has a decent gameplan and comfortability within that gameplan to win at home vs an inferior team. And make no mistake about it, Tennessee led by Ryan Tannenhill, is an inferior team – another way to put it, Carolina is ok, and Tennessee sucks ass.
+**Buffalo -9.5**
+I know I used a derivation of this a few times last week, but really, what team playing the Redskins, even when they are like a 6+ win team, would make the matchup worthy of tuning in for more than like 2 or 3 snaps? I can tell you it certainly is not a Buffalo team led by Kyle Allen. I know Buffalo is respectable this year, but jfc who cares about this matchup? 
 
 ## **TEN (0) at CAR (0)-1:00 ET** 
 **Carolina -3.5**
