@@ -15,24 +15,24 @@ San Fran covers the 10 points. Their defense is really actually good contrary to
 **Houston -1**
 I like Houston to cover. I still don’t get why everyone acts like playing in Jax means anything. If I’m being honest, I don’t know shit about either team, other than Houston actually has some recognizable players. I know JJ went down, but Watson is good and he’ll be riding the whole he’s the “Michael Jordan of football” mantra (Dabo Swinney’s words not mine)after almost losing his eye last week. 
 
-## **WAS (6) at BUF (17)-Halftime** 
+## **WAS (6) at BUF (17)-Q3 14:53** 
 **Buffalo -9.5**
 I know I used a derivation of this a few times last week, but really, what team playing the Redskins, even when they are like a 6+ win team, would make the matchup worthy of tuning in for more than like 2 or 3 snaps? I can tell you it certainly is not a Buffalo team led by Kyle Allen. I know Buffalo is respectable this year, but jfc who cares about this matchup? 
 
-## **TEN (0) at CAR (10)-Q2 02:06** 
+## **TEN (0) at CAR (17)-Q2 00:58** 
 **Carolina -3.5**
 Not sure if Cam is back, and not that I think he will be much of an improvement over Kyle Allen (I think that’s his name?), but Carolina has a decent gameplan and comfortability within that gameplan to win at home vs an inferior team. And make no mistake about it, Tennessee led by Ryan Tannenhill, is an inferior team – another way to put it, Carolina is ok, and Tennessee sucks ass.
 
-## **MIN (7) at KC (10)-Q2 00:52** 
+## **MIN (7) at KC (10)-Q2 00:18** 
 The spread isn’t out yet, obviously it’s contingent on Mahomme’s status. Regardless, Minnesota is pretty good and I think they cover no matter the spread. My guess is it’s 9 points without Mahommes, and 3.5 with Mahommes. I don’t think KC brings Mahommes back vs a good defense like Minnesota, so yea, the shitbag Vikings remain 1 game back of the Packers after this week.
 
 
-## **NYJ (7) at MIA (14)-Q2 02:00** 
+## **NYJ (7) at MIA (21)-Q2 00:57** 
 **NYJ -3**
 Oh my fucking god. Nothing more needs to be said.
 
 
-## **CHI (0) at PHI (12)-Q2 02:00** 
+## **CHI (0) at PHI (12)-Q2 00:21** 
 **Phi -5**
 Lol. The Bears might not even make it to 8 wins as I predicted to start the year. I think Philly lights them the fuck up and then we really start to hear the call for Daniels over Trubisky. What I’m really looking forward to is Nagy responding to all the repetitive questions about a QB switch. I mean he’s just so fucking cool and has handled the frustrating questions about his inept offense so well, I just really cannot wait for him to take the podium after this one. 
 
