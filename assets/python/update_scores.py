@@ -1,4 +1,3 @@
-#!/home/r3weber/Desktop/packersblogger.github.io/assets/ENV/bin python3.6
 import os
 import nflgame
 import re
