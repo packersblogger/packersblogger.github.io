@@ -40,15 +40,15 @@ Lol. The Bears might not even make it to 8 wins as I predicted to start the year
 **Ind -1**
 This is a tough one. I think Indy is actually pretty good, and Pitt seems like that annoying team that will just keep games close especially at home – but Indy actually has a shot to do something in the playoffs, so they’ll win this one – but I wouldn’t put your first born on it, I’d only put like Coach Nagy’s first born on it because, you know, he sucks. 
 
-## **DET (23) at OAK (24)-Q4 05:16** 
+## **TB (24) at SEA (24)-Q4 10:00** 
 **Det +2.5**
 Again, another tough one. This will be a good win for Detroit, and I want the Lions to win because it makes the Packers look better being that they are a division team (but won’t really be a threat because it’s Detroit). In this close matchup, I’ll take points. Also, the Lions don’t need any more billboard material – they need to allocate their financial resources elsewhere in their continued effort to not be looked at as the shittiest city in America.  
 
-## **TB (24) at SEA (24)-Q4 10:00** 
+## **CLE (12) at DEN (23)-Q3 01:06** 
 **Seattle -5.5**
 Seattle at home vs an east coast team…. An east coast team quarterbacked by the crab leg king himself – Jameis Winston. I haven’t seen Jameis throw one pass this year, but all I see and hear in the media after his games is something along the lines of – holy Christ is this guy bad. So yea, Seattle is the pick.
 
-## **CLE (12) at DEN (17)-Q3 01:56** 
+## **NE (0) at BAL (0)-8:20 ET** 
 **Cleveland -3.5**
 I think finally Cleveland looks ok – and Baker can use his “I woke up feeling dangerous” line after beating the Broncos without Joe Flacco. Baker really is well on his way to being benched and out of football soon. Once Kitchens is fired after this year, they will hire like Urban Meyer and he will bring up the whole planting the flag at OSU thing, because Urban is a petty little bitch and will hold that against Baker and ultimately bench him. But…. In the short term, I think Baker wakes up feeling “dangerous” and throws a TD, with a couple of interceptions of course, and the Browns win like 15-6 in a really shitty game.
 
