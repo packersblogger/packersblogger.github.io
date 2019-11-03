@@ -11,32 +11,32 @@ published: true
 **San Fran -10**
 San Fran covers the 10 points. Their defense is really actually good contrary to what I said about the team as a whole last week. Kyler might get knocked out, and AZ really doesn’t have any other playmakers on offense since their top 2 RB’s are hurt and as a result they went in full on desperation mode to make a trade with the worst roster in football in Miami for Kenyon Drake. San Fran will score 27 or something and AZ will be lucky to get to 13.
 
-## **HOU (0) at JAX (0)-9:30 ET** 
+## **HOU (26) at JAX (3)-Final** 
 **Houston -1**
 I like Houston to cover. I still don’t get why everyone acts like playing in Jax means anything. If I’m being honest, I don’t know shit about either team, other than Houston actually has some recognizable players. I know JJ went down, but Watson is good and he’ll be riding the whole he’s the “Michael Jordan of football” mantra (Dabo Swinney’s words not mine)after almost losing his eye last week. 
 
-## **WAS (3) at BUF (17)-Q2 03:23** 
+## **WAS (6) at BUF (17)-Halftime** 
 **Buffalo -9.5**
 I know I used a derivation of this a few times last week, but really, what team playing the Redskins, even when they are like a 6+ win team, would make the matchup worthy of tuning in for more than like 2 or 3 snaps? I can tell you it certainly is not a Buffalo team led by Kyle Allen. I know Buffalo is respectable this year, but jfc who cares about this matchup? 
 
-## **TEN (0) at CAR (3)-Q2 10:36** 
+## **TEN (0) at CAR (10)-Q2 02:06** 
 **Carolina -3.5**
 Not sure if Cam is back, and not that I think he will be much of an improvement over Kyle Allen (I think that’s his name?), but Carolina has a decent gameplan and comfortability within that gameplan to win at home vs an inferior team. And make no mistake about it, Tennessee led by Ryan Tannenhill, is an inferior team – another way to put it, Carolina is ok, and Tennessee sucks ass.
 
-## **MIN (7) at KC (7)-Q2 07:49** 
+## **MIN (7) at KC (10)-Q2 00:52** 
 The spread isn’t out yet, obviously it’s contingent on Mahomme’s status. Regardless, Minnesota is pretty good and I think they cover no matter the spread. My guess is it’s 9 points without Mahommes, and 3.5 with Mahommes. I don’t think KC brings Mahommes back vs a good defense like Minnesota, so yea, the shitbag Vikings remain 1 game back of the Packers after this week.
 
 
-## **NYJ (7) at MIA (7)-Q2 07:58** 
+## **NYJ (7) at MIA (14)-Q2 02:00** 
 **NYJ -3**
 Oh my fucking god. Nothing more needs to be said.
 
 
-## **CHI (0) at PHI (12)-Q2 06:21** 
+## **CHI (0) at PHI (12)-Q2 02:00** 
 **Phi -5**
 Lol. The Bears might not even make it to 8 wins as I predicted to start the year. I think Philly lights them the fuck up and then we really start to hear the call for Daniels over Trubisky. What I’m really looking forward to is Nagy responding to all the repetitive questions about a QB switch. I mean he’s just so fucking cool and has handled the frustrating questions about his inept offense so well, I just really cannot wait for him to take the podium after this one. 
 
-## **IND (10) at PIT (10)-Q2 02:21** 
+## **IND (16) at PIT (13)-Halftime** 
 **Ind -1**
 This is a tough one. I think Indy is actually pretty good, and Pitt seems like that annoying team that will just keep games close especially at home – but Indy actually has a shot to do something in the playoffs, so they’ll win this one – but I wouldn’t put your first born on it, I’d only put like Coach Nagy’s first born on it because, you know, he sucks. 
 
