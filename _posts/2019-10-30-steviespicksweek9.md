@@ -15,53 +15,47 @@ San Fran covers the 10 points. Their defense is really actually good contrary to
 **Houston -1**
 I like Houston to cover. I still don’t get why everyone acts like playing in Jax means anything. If I’m being honest, I don’t know shit about either team, other than Houston actually has some recognizable players. I know JJ went down, but Watson is good and he’ll be riding the whole he’s the “Michael Jordan of football” mantra (Dabo Swinney’s words not mine)after almost losing his eye last week. 
 
-## **WAS (6) at BUF (17)-Q3 14:53** 
+## **WAS (9) at BUF (24)-Final** 
 **Buffalo -9.5**
 I know I used a derivation of this a few times last week, but really, what team playing the Redskins, even when they are like a 6+ win team, would make the matchup worthy of tuning in for more than like 2 or 3 snaps? I can tell you it certainly is not a Buffalo team led by Kyle Allen. I know Buffalo is respectable this year, but jfc who cares about this matchup? 
 
-## **TEN (0) at CAR (17)-Q2 00:58** 
+## **TEN (20) at CAR (30)-Final** 
 **Carolina -3.5**
 Not sure if Cam is back, and not that I think he will be much of an improvement over Kyle Allen (I think that’s his name?), but Carolina has a decent gameplan and comfortability within that gameplan to win at home vs an inferior team. And make no mistake about it, Tennessee led by Ryan Tannenhill, is an inferior team – another way to put it, Carolina is ok, and Tennessee sucks ass.
 
-## **MIN (7) at KC (10)-Q2 00:18** 
+## **MIN (23) at KC (26)-Final** 
 The spread isn’t out yet, obviously it’s contingent on Mahomme’s status. Regardless, Minnesota is pretty good and I think they cover no matter the spread. My guess is it’s 9 points without Mahommes, and 3.5 with Mahommes. I don’t think KC brings Mahommes back vs a good defense like Minnesota, so yea, the shitbag Vikings remain 1 game back of the Packers after this week.
 
 
-## **NYJ (7) at MIA (21)-Q2 00:57** 
+## **NYJ (18) at MIA (26)-Final** 
 **NYJ -3**
 Oh my fucking god. Nothing more needs to be said.
 
 
-## **CHI (0) at PHI (12)-Q2 00:21** 
+## **CHI (14) at PHI (22)-Final** 
 **Phi -5**
 Lol. The Bears might not even make it to 8 wins as I predicted to start the year. I think Philly lights them the fuck up and then we really start to hear the call for Daniels over Trubisky. What I’m really looking forward to is Nagy responding to all the repetitive questions about a QB switch. I mean he’s just so fucking cool and has handled the frustrating questions about his inept offense so well, I just really cannot wait for him to take the podium after this one. 
 
-## **IND (16) at PIT (13)-Halftime** 
+## **IND (24) at PIT (26)-Final** 
 **Ind -1**
 This is a tough one. I think Indy is actually pretty good, and Pitt seems like that annoying team that will just keep games close especially at home – but Indy actually has a shot to do something in the playoffs, so they’ll win this one – but I wouldn’t put your first born on it, I’d only put like Coach Nagy’s first born on it because, you know, he sucks. 
 
-## **DET (0) at OAK (0)-4:05 ET** 
+## **DET (7) at OAK (7)-Q2 14:18** 
 **Det +2.5**
 Again, another tough one. This will be a good win for Detroit, and I want the Lions to win because it makes the Packers look better being that they are a division team (but won’t really be a threat because it’s Detroit). In this close matchup, I’ll take points. Also, the Lions don’t need any more billboard material – they need to allocate their financial resources elsewhere in their continued effort to not be looked at as the shittiest city in America.  
 
-## **TB (0) at SEA (0)-4:05 ET** 
+## **TB (14) at SEA (7)-Q2 15:00** 
 **Seattle -5.5**
 Seattle at home vs an east coast team…. An east coast team quarterbacked by the crab leg king himself – Jameis Winston. I haven’t seen Jameis throw one pass this year, but all I see and hear in the media after his games is something along the lines of – holy Christ is this guy bad. So yea, Seattle is the pick.
 
-## **CLE (0) at DEN (0)-4:25 ET** 
+## **CLE (0) at DEN (7)-Q1 06:09** 
 **Cleveland -3.5**
 I think finally Cleveland looks ok – and Baker can use his “I woke up feeling dangerous” line after beating the Broncos without Joe Flacco. Baker really is well on his way to being benched and out of football soon. Once Kitchens is fired after this year, they will hire like Urban Meyer and he will bring up the whole planting the flag at OSU thing, because Urban is a petty little bitch and will hold that against Baker and ultimately bench him. But…. In the short term, I think Baker wakes up feeling “dangerous” and throws a TD, with a couple of interceptions of course, and the Browns win like 15-6 in a really shitty game.
 
-## **GB (0) at LAC (0)-4:25 ET** 
+## **GB (0) at LAC (3)-Q1 04:13** 
 I don’t disclose my Packer picks. But, I will say, the Chargers coach is a fucking moron.
 
 ## **NE (0) at BAL (0)-8:20 ET** 
 **NE -3**
 I was really high on Baltimore to start the year, saying they would go 13-3, but recently they haven’t looked at all how I envisioned them. I mean I don’t really watch their games, so I guess how would I know, but Lamar isn’t that good at the end of the day, and Belichek is about to make him realize that. NE wins 23-6.
 
-## **DAL (0) at NYG (0)-8:15 ET** 
-**NYG +7**
-Who else is tired of hearing and watching these “big time” NFC East matchups? Like both these teams suck ass, and this is a waste of time again – on Monday night football AGAIN!!! NY just added Leonard Williams who is good, but their roster, to no one’s surprise, just sucks. Saquan sure, but yea they just aren’t any good. With that being said, Dallas is the softest team in the league (and will always be as long as Jason Garret is the coach). I think they lose this game outright actually. So, if you’re looking for a nice value moneyline pick, throw like 20 on it and get your week started off right!
-
-
-<script markdown="0" src="/assets/js/difference.js"></script>
