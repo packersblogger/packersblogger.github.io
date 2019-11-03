@@ -1,7 +1,6 @@
 #!python
 import os
 import nflgame
-
 import re
 import fileinput
 import sys
@@ -25,10 +24,6 @@ def gettime(index):
     else:
         return(gameTime)
     
-    
-
-    
-
 for line in fileinput.input(my_file, inplace=1): 
 
     if re.search('^.*?\([^\d]*(\d+)[^\d]*\).*$', line):
