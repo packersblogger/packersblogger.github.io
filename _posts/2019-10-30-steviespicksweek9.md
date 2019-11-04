@@ -47,19 +47,19 @@ Again, another tough one. This will be a good win for Detroit, and I want the Li
 **Seattle -5.5**
 Seattle at home vs an east coast team…. An east coast team quarterbacked by the crab leg king himself – Jameis Winston. I haven’t seen Jameis throw one pass this year, but all I see and hear in the media after his games is something along the lines of – holy Christ is this guy bad. So yea, Seattle is the pick.
 
-## **GB (11) at LAC (26)-Final** 
-**no line**
-I don’t disclose my Packer picks. But, I will say, the Chargers coach is a fucking moron.
-
 ## **CLE (19) at DEN (24)-Final** 
 **Cleveland -3.5**
 I think finally Cleveland looks ok – and Baker can use his “I woke up feeling dangerous” line after beating the Broncos without Joe Flacco. Baker really is well on his way to being benched and out of football soon. Once Kitchens is fired after this year, they will hire like Urban Meyer and he will bring up the whole planting the flag at OSU thing, because Urban is a petty little bitch and will hold that against Baker and ultimately bench him. But…. In the short term, I think Baker wakes up feeling “dangerous” and throws a TD, with a couple of interceptions of course, and the Browns win like 15-6 in a really shitty game.
 
-## **NE (0) at BAL (0)-8:20 ET** 
+## **GB (11) at LAC (26)-Final** 
+**no line**
+I don’t disclose my Packer picks. But, I will say, the Chargers coach is a fucking moron.
+
+## **NE (7) at BAL (17)-Q2 11:18** 
 **NE -3** 
 I was really high on Baltimore to start the year, saying they would go 13-3, but recently they haven’t looked at all how I envisioned them. I mean I don’t really watch their games, so I guess how would I know, but Lamar isn’t that good at the end of the day, and Belichek is about to make him realize that. NE wins 23-6.
 
 ## **DAL (0) at NYG (0)-8:15 ET** 
-**NYG +7** 
-Who else is tired of hearing and watching these “big time” NFC East matchups? Like both these teams suck ass, and this is a waste of time again – on Monday night football AGAIN!!! NY just added Leonard Williams who is good, but their roster, to no one’s surprise, just sucks. Saquan sure, but yea they just aren’t any good. With that being said, Dallas is the softest team in the league (and will always be as long as Jason Garret is the coach). I think they lose this game outright actually. So, if you’re looking for a nice value moneyline pick, throw like 20 on it and get your week started off right!
+**NE -3** 
+I was really high on Baltimore to start the year, saying they would go 13-3, but recently they haven’t looked at all how I envisioned them. I mean I don’t really watch their games, so I guess how would I know, but Lamar isn’t that good at the end of the day, and Belichek is about to make him realize that. NE wins 23-6.
 
