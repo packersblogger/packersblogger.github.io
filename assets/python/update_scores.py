@@ -10,30 +10,35 @@ games = nflgame.games(2019, week=9)
 listofgames = []
 for g in games:
     listofgames.append(g)
-    
-    
-my_file = '_posts/2019-10-30-steviespicksweek9.md'
-
-index = 0 
-def getgame(index):
-    return(listofgames[index])
-def gettime(index):
-    gameTime = listofgames[index].time
-    if gameTime.is_pregame():  
-        return("{} ET".format(listofgames[index].schedule['time']))
+    if g.winner == g.away:
+        print (f'{g.away} - {g.score_away}')
     else:
-        return(gameTime)
+        print (f'{g.home} - {g.score_home}')  
     
-for line in fileinput.input(my_file, inplace=1): 
+    
+    
+# my_file = '_posts/2019-10-30-steviespicksweek9.md'
 
-    if re.search('^.*?\([^\d]*(\d+)[^\d]*\).*$', line):
+# index = 0 
+# def getgame(index):
+#     return(listofgames[index])
+# def gettime(index):
+#     gameTime = listofgames[index].time
+#     if gameTime.is_pregame():  
+#         return("{} ET".format(listofgames[index].schedule['time']))
+#     else:
+#         return(gameTime)
+    
+# for line in fileinput.input(my_file, inplace=1): 
+
+#     if re.search('^.*?\([^\d]*(\d+)[^\d]*\).*$', line):
         
-        updatedGame = getgame(index)
-        time = gettime(index)
+#         updatedGame = getgame(index)
+#         time = gettime(index)
         
-        line = f"## **{updatedGame}-{time}** \r\n\r\n"
-        index += 1
-    sys.stdout.write(line)
+#         line = f"## **{updatedGame}-{time}** \r\n\r\n"
+#         index += 1
+#     sys.stdout.write(line)
 
         
 
