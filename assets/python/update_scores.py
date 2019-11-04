@@ -11,10 +11,22 @@ listofgames = []
 for g in games:
     listofgames.append(g)
     if g.winner == g.away:
-        print (f'{g.away} - {g.score_away}')
+        winningscore = g.score_away
+        losingscore = g.score_home
+        difference = winningscore - losingscore
+
+        print (f'{g.away} by {difference}')
     else:
-        print (f'{g.home} - {g.score_home}')  
-    
+        winningscore = g.score_home
+        losingscore = g.score_away
+        difference = winningscore - losingscore
+
+        print (f'{g.home} by {difference}')  
+    # if g.winner:
+    #     print(f'{g.winner}')
+    #     continue
+    # else:
+    #     print('none')
     
     
 # my_file = '_posts/2019-10-30-steviespicksweek9.md'
