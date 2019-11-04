@@ -14,11 +14,11 @@ for game in data:
             date = Epoch.strftime('%m-%d-%Y %H:%M:%S')
             team_1 = team['competitors'][0]['name']
             team_2 = team['competitors'][1]['name']
-            try: odd_1_1 = team['displayGroups'][0]['markets'][0]['outcomes'][0]['price'][4]['handicap'] 
+            try: odd_1_1 = team['displayGroups'][0]['markets'][0]['outcomes'][0]['price']['handicap'] 
             except KeyError: odd_1_1 = None
             try: odd_1_2 = team['displayGroups'][0]['markets'][0]['outcomes'][0]['price']['american'] 
             except KeyError: odd_1_2 = None
-            try: odd_2_1 = team['displayGroups'][0]['markets'][0]['outcomes'][1]['price'][5]['handicap'] 
+            try: odd_2_1 = team['displayGroups'][0]['markets'][0]['outcomes'][1]['price']['handicap'] 
             except KeyError: odd_2_1 = None
             try: odd_2_2 = team['displayGroups'][0]['markets'][0]['outcomes'][1]['price']['american'] 
             except KeyError: odd_2_2 = None
