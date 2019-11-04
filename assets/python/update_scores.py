@@ -5,14 +5,14 @@ import re
 import fileinput
 import sys
 
-games = nflgame.games(2019, week=9)
+games = nflgame.games(2019, week=8)
 
 listofgames = []
 for g in games:
     listofgames.append(g)
     
     
-my_file = '_posts/2019-10-30-steviespicksweek9.md'
+my_file = '_posts/2019-10-23-stevespicksweek8.md'
 
 index = 0 
 def getwinner(index):
