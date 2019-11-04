@@ -76,4 +76,6 @@ I don’t disclose my Packer picks. *So from RCW:* **Its the Packers.** This wil
 
 14.5 is a lot for a team like Pittsburgh to cover, but Miami really is that bad. Only thing is this is on Monday night, so the refs will find a way to keep this close – I’ll take Miami with the points
 
+**Steve Week 8 Record: 3-9**
+
 <script markdown="0" src="/assets/js/difference.js"></script>
