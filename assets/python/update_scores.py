@@ -31,7 +31,7 @@ for line in fileinput.input(my_file, inplace=1):
         updatedGame = getgame(index)
         time = gettime(index)
         
-        line = f"## **{updatedGame}-{time}** \r\n"
+        line = f"## **{updatedGame}-{time}** \r\n\r\n"
         index += 1
     sys.stdout.write(line)
 
