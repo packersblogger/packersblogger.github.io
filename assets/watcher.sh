@@ -27,5 +27,5 @@ do
     echo "now here: $currentPath"
 
     # wait for 1 hour
-    sleep 30m
+    sleep 10m
 done
