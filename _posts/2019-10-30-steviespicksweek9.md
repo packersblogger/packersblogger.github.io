@@ -96,3 +96,5 @@ I was really high on Baltimore to start the year, saying they would go 13-3, but
 
 **NYG +7** 
 Who else is tired of hearing and watching these “big time” NFC East matchups? Like both these teams suck ass, and this is a waste of time again – on Monday night football AGAIN!!! NY just added Leonard Williams who is good, but their roster, to no one’s surprise, just sucks. Saquan sure, but yea they just aren’t any good. With that being said, Dallas is the softest team in the league (and will always be as long as Jason Garret is the coach). I think they lose this game outright actually. So, if you’re looking for a nice value moneyline pick, throw like 20 on it and get your week started off right!
+
+**Steve Week 9 Record: 4-7**
