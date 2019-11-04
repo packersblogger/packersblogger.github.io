@@ -31,7 +31,6 @@ The spread isn’t out yet, obviously it’s contingent on Mahomme’s status. R
 **NYJ -3**
 Oh my fucking god. Nothing more needs to be said.
 
-
 ## **CHI (14) at PHI (22)-Final** 
 **Phi -5**
 Lol. The Bears might not even make it to 8 wins as I predicted to start the year. I think Philly lights them the fuck up and then we really start to hear the call for Daniels over Trubisky. What I’m really looking forward to is Nagy responding to all the repetitive questions about a QB switch. I mean he’s just so fucking cool and has handled the frustrating questions about his inept offense so well, I just really cannot wait for him to take the podium after this one. 
@@ -44,11 +43,14 @@ This is a tough one. I think Indy is actually pretty good, and Pitt seems like t
 **Det +2.5**
 Again, another tough one. This will be a good win for Detroit, and I want the Lions to win because it makes the Packers look better being that they are a division team (but won’t really be a threat because it’s Detroit). In this close matchup, I’ll take points. Also, the Lions don’t need any more billboard material – they need to allocate their financial resources elsewhere in their continued effort to not be looked at as the shittiest city in America.  
 
-## **CLE (19) at DEN (24)-Q4 02:36** 
+## **TB (34) at SEA (34)-Q5 06:59** 
 **Seattle -5.5**
 Seattle at home vs an east coast team…. An east coast team quarterbacked by the crab leg king himself – Jameis Winston. I haven’t seen Jameis throw one pass this year, but all I see and hear in the media after his games is something along the lines of – holy Christ is this guy bad. So yea, Seattle is the pick.
 
 ## **GB (11) at LAC (26)-Final** 
+I don’t disclose my Packer picks. But, I will say, the Chargers coach is a fucking moron.
+
+## **CLE (19) at DEN (24)-Q4 02:00** 
 **Cleveland -3.5**
 I think finally Cleveland looks ok – and Baker can use his “I woke up feeling dangerous” line after beating the Broncos without Joe Flacco. Baker really is well on his way to being benched and out of football soon. Once Kitchens is fired after this year, they will hire like Urban Meyer and he will bring up the whole planting the flag at OSU thing, because Urban is a petty little bitch and will hold that against Baker and ultimately bench him. But…. In the short term, I think Baker wakes up feeling “dangerous” and throws a TD, with a couple of interceptions of course, and the Browns win like 15-6 in a really shitty game.
 
