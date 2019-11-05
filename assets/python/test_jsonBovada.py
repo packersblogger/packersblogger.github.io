@@ -3,9 +3,9 @@ import re
 import datetime
 import json
 
-index = 0
 
-def getodds(index):
+i=1
+def getodds(i):
     r = requests.get("https://www.bovada.lv/services/sports/event/v2/events/A/description/football/nfl", verify=False).json()
     data=r[0]
     listofodds = []
@@ -45,5 +45,5 @@ def getodds(index):
             except KeyError: odd_1_1 = None
             except IndexError:
                 pass
-    return(listofodds[index])
-print(getodds(index))
+    return(listofodds[i])
+print(getodds(i))
