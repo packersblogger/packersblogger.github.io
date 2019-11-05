@@ -91,8 +91,8 @@ def gettime(index):
     
 for line in fileinput.input(my_file, inplace=1): 
     
-    if re.search('^.*?\([^\d]*(\d+)[^\d]*\).*$', line):
-        
+    # if re.search('^.*?\([^\d]*(\d+)[^\d]*\).*$', line):
+    if re.search('[0-9]{2}-[0-9]{2}-[0-9]{4}', line):  
         # updatedGame = getgame(index)
         # time = gettime(index)
         # winner = getwinner(index)
