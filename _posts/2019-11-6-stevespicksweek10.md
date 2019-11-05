@@ -1,97 +1,88 @@
----
-layout: post
-title:  "Steves Picks Week 10"
-author: S J W
-thumbnail: /assets/images/tommikethumb.jpg
-permalink: /stevespicksweek10/
-published: true
----
-
-## **Los Angeles Chargers** (-1.0,-125) | -115 | o(48.5,-110) at **Oakland Raiders** (1.0,+105) | -105 | u(48.5,-110)-11-07-2019 18:20:00
+## **LAC (0) at OAK (0)-8:20** 
 
 **PutLineHere**
 content_here
 
 **My Pick: **
 
-## **Detroit Lions** (3.0,+120) | -125 | o(42.5,-110) at **Chicago Bears** (-3.0,-140) | +105 | u(42.5,-110)-11-10-2019 11:00:00
+## **DET (0) at CHI (0)-1:00** 
 
 **PutLineHere**
 content_here
 
 **My Pick: **
 
-## **Atlanta Falcons** (13.0,+435) | -115 | o(51.0,-115) at **New Orleans Saints** (-13.0,-670) | -105 | u(51.0,-105)-11-10-2019 11:00:00
+## **BAL (0) at CIN (0)-1:00** 
 
 **PutLineHere**
 content_here
 
 **My Pick: **
 
-## **Baltimore Ravens** (-10.0,-500) | -105 | o(46.0,-105) at **Cincinnati Bengals ** (10.0,+350) | -115 | u(46.0,-115)-11-10-2019 11:00:00
+## **BUF (0) at CLE (0)-1:00** 
 
 **PutLineHere**
 content_here
 
 **My Pick: **
 
-## **Buffalo Bills** (2.5,+125) | -105 | o(40.5,-110) at **Cleveland Browns** (-2.5,-145) | -115 | u(40.5,-110)-11-10-2019 11:00:00
+## **CAR (0) at GB (0)-1:00** 
 
 **PutLineHere**
 content_here
 
 **My Pick: **
 
-## **Arizona Cardinals** (4.5,+180) | -110 | o(52.0,-110) at **Tampa Bay Buccaneers** (-4.5,-220) | -110 | u(52.0,-110)-11-10-2019 11:00:00
+## **ATL (0) at NO (0)-1:00** 
 
 **PutLineHere**
 content_here
 
 **My Pick: **
 
-## **Miami Dolphins** (10.5,+350) | -115 | o(44.0,-105) at **Indianapolis Colts** (-10.5,-500) | -105 | u(44.0,-115)-11-10-2019 14:05:00
+## **NYG (0) at NYJ (0)-1:00** 
 
 **PutLineHere**
 content_here
 
 **My Pick: **
 
-## **Carolina Panthers** (5.0,+190) | -110 | o(47.5,-110) at **Green Bay Packers** (-5.0,-230) | -110 | u(47.5,-110)-11-10-2019 14:25:00
+## **ARI (0) at TB (0)-1:00** 
 
 **PutLineHere**
 content_here
 
 **My Pick: **
 
-## **Los Angeles Rams** (-4.0,-200) | -110 | o(44.5,-110) at **Pittsburgh Steelers** (4.0,+170) | -110 | u(44.5,-110)-11-10-2019 14:25:00
+## **KC (0) at TEN (0)-1:00** 
 
 **PutLineHere**
 content_here
 
 **My Pick: **
 
-## **Seattle Seahawks** (6.0,+225) | -110 | o(46.5,-110) at **San Francisco 49ers** (-6.0,-275) | -110 | u(46.5,-110)-11-11-2019 18:15:00
+## **MIA (0) at IND (0)-4:05** 
 
 **PutLineHere**
 content_here
 
 **My Pick: **
 
-## **Los Angeles Chargers** (-1.0,-125) | -115 | o(48.5,-110) at **Oakland Raiders** (1.0,+105) | -105 | u(48.5,-110)-11-07-2019 18:20:00
+## **LA (0) at PIT (0)-4:25** 
 
 **PutLineHere**
 content_here
 
 **My Pick: **
 
-## **Detroit Lions** (3.0,+120) | -125 | o(42.5,-110) at **Chicago Bears** (-3.0,-140) | +105 | u(42.5,-110)-11-10-2019 11:00:00
+## **MIN (0) at DAL (0)-8:20** 
 
 **PutLineHere**
 content_here
 
 **My Pick: **
 
-## **Atlanta Falcons** (13.0,+435) | -115 | o(51.0,-115) at **New Orleans Saints** (-13.0,-670) | -105 | u(51.0,-105)-11-10-2019 11:00:00
+## **SEA (0) at SF (0)-8:15** 
 
 **PutLineHere**
 content_here
