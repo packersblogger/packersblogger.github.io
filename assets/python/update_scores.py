@@ -54,7 +54,7 @@ def getodds(i):
                 try: u_1 = team['displayGroups'][0]['markets'][2]['outcomes'][1]['price']['american']
                 except KeyError: o_1 = None
                 # print(date)
-                listofodds.append("{0} ({1},{2}) | {3} | o({4},{5})".format(team_2,odd_1_1, odd_1_2, ML_2, o, o_1))
+                listofodds.append("{0} ({1},{2}) | {3} | o({4},{5})\r\n at {6} ({7},{8}) | {9} | u({10},{11})-{12}".format(team_2,odd_1_1, odd_1_2, ML_2, o, o_1, team_1, odd_2_1, odd_2_2, ML_1, u, u_1, date))
                 # print("{0} ({1},{2}) | {3} | u({4},{5})".format(team_1,odd_2_1, odd_2_2, ML_1, u, u_1))
             except KeyError: odd_1_1 = None
             except IndexError:
@@ -93,11 +93,12 @@ for line in fileinput.input(my_file, inplace=1):
     
     if re.search('^.*?\([^\d]*(\d+)[^\d]*\).*$', line):
         
-        updatedGame = getgame(index)
-        time = gettime(index)
-        winner = getwinner(index)
+        # updatedGame = getgame(index)
+        # time = gettime(index)
+        # winner = getwinner(index)
         odds = getodds(i)
-        line = f"## **{updatedGame}-{time}**\r\n**{winner}** \r\n**{odds}**\r\n"
+        # line = f"## **{updatedGame}-{time}**\r\n**{winner}** \r\n**{odds}**\r\n"
+        line = f"##**{odds}**"
         index += 1
         i += 1
     sys.stdout.write(line)

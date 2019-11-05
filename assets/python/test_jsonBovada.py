@@ -4,7 +4,7 @@ import datetime
 import json
 
 
-i=1
+i=2
 def getodds(i):
     r = requests.get("https://www.bovada.lv/services/sports/event/v2/events/A/description/football/nfl", verify=False).json()
     data=r[0]
