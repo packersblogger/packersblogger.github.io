@@ -40,7 +40,7 @@ for game in data:
             try: u_1 = team['displayGroups'][0]['markets'][2]['outcomes'][1]['price']['american']
             except KeyError: o_1 = None
             # print(date)
-            f.write("## **{0}** ({1},{2}) | {3} | o({4},{5}) at **{6}** ({7},{8}) | {9} | u({10},{11})-{12} MST\r\n\r\n".format(team_2,odd_1_1, odd_1_2, ML_2, o, o_1, team_1, odd_2_1, odd_2_2, ML_1, u, u_1, date))
+            f.write("## **{0}** ({1},{2}) | {3} | o({4},{5}) at\r\n## **{6}** ({7},{8}) | {9} | u({10},{11})\r\n{12} MST\r\n\r\n".format(team_2,odd_1_1, odd_1_2, ML_2, o, o_1, team_1, odd_2_1, odd_2_2, ML_1, u, u_1, date))
             # print("{0} ({1},{2}) | {3} | u({4},{5})".format(team_1,odd_2_1, odd_2_2, ML_1, u, u_1))
         except KeyError: odd_1_1 = None
         except IndexError:
