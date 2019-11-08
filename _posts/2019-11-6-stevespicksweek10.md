@@ -4,7 +4,7 @@ title:  "Steves Picks Week 10"
 author: S J W
 thumbnail: /assets/images/tommikethumb.jpg
 permalink: /stevespicksweek10/
-published: false
+published: true
 ---
 
 ## **Los Angeles Chargers** (-1.5,-125) | -105 | o(48.5,-115) at
