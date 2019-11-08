@@ -11,6 +11,11 @@ published: false
 ## **Oakland Raiders** (1.5,+105) | -115 | u(48.5,-105)
 11-07-2019 18:20:00 MST
 
+**My Pick: San Diego**
+
+Both teams are quietly pretty good. The Chargers just have more talent and it’s finally playing half way decent as evidenced by them embarrassing the Packers last week. Phillip is still fully capable of doing the same stupid shit he always does about 8 games a year (see game vs Pittsburgh this year), but I really have grown to not like Derek Carr. Despite Jon Gruden creating a system where even Carr can look like a capable QB, I think the San Diego defense continues it’s play from last week and makes Derek cry again – which as you remember happened when he snapped his leg in half a few years back. His teammates loved seeing his tears and even went as far to make fun of him in the media. Also, now that I think of it, Derek was my least favorite person on Hard Knocks this year too – so yea I’m confident in my San Diego pick Thursday Night. 
+
+
 ## **Detroit Lions** (3.0,+115) | -125 | o(41.5,-110) at
 ## **Chicago Bears** (-3.0,-135) | +105 | u(41.5,-110)
 11-10-2019 11:00:00 MST
