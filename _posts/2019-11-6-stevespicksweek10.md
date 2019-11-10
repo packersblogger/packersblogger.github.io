@@ -7,7 +7,9 @@ permalink: /stevespicksweek10/
 published: true
 ---
 > Recrods going into Week 10:
+
 > SJW: 7-17
+
 > RCW: 1-0
 
 ## **Los Angeles Chargers** (-1.5,-125) | -105 | o(48.5,-115) at
