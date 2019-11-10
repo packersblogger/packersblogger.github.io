@@ -79,7 +79,7 @@ A guy I work with really likes Josh Allen because he lives in Wyoming and there 
 
 **SJW:**Cleveland
 
-I really don’t like Freddie Kitchens. I’m still amazed this guy was offered a head coaching job, but I do think they win this game and cover the points – have this feeling like Buffalo won’t
+I really don’t like Freddie Kitchens. I’m still amazed this guy was offered a head coaching job, but I do think they win this game and cover the points – have this feeling like Buffalo won’t score much so Baker and the gang should be fine putting up their 14-17 points in this one and covering the 2.5.
 
 ## **Kansas City Chiefs** (-6.0,-260) | -105 | o(49.0,-115) at
 ## **Tennessee Titans** (6.0,+215) | -115 | u(49.0,-105)
