@@ -6,7 +6,7 @@ thumbnail: /assets/images/tommikethumb.jpg
 permalink: /stevespicksweek10/
 published: true
 ---
-> Recrods going into Week 10:
+> **Records going into Week 10:**
 
 > SJW: 7-17
 
