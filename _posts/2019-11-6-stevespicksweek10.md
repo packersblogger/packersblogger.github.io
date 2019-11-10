@@ -7,8 +7,10 @@ permalink: /stevespicksweek10/
 published: true
 ---
 > **Records going into Week 10:**
-SJW: 7-17
-RCW: 1-0
+
+##### *SJW: 7-17*
+
+##### *RCW: 1-0*
 
 ## **Los Angeles Chargers** (-1.5,-125) | -105 | o(48.5,-115) at
 ## **Oakland Raiders** (1.5,+105) | -115 | u(48.5,-105)
