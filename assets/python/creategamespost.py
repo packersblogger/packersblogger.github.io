@@ -6,7 +6,7 @@ import requests
 import datetime
 import json
 
-f= open("_posts/2019-11-6-stevespicksweek10.md","w+")
+f= open("_posts/2019-11-13-stevespicksweek11.md","w+")
 r = requests.get("https://www.bovada.lv/services/sports/event/v2/events/A/description/football/nfl", verify=False).json()
 data=r[0]
 
