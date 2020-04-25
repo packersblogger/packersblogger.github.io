@@ -4,7 +4,7 @@ title:  "2020 Packers Draft"
 author: S J W
 thumbnail: /assets/images/tommikethumb.jpg
 permalink: /stevepackersdraft/
-published: true
+published: false
 ---
 
 # Making Sense of the First Round Pick
