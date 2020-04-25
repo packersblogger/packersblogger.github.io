@@ -15,6 +15,7 @@ Unsurprisingly, the majority of Packer fans and anti-Packer fans (vile people th
 <figure style= "position:relative">
   <img src='/assets/images/jordan_love.jpg' alt="zoolander" style="border-radius: 8px">
 <figcaption>Head Scratcher First Round Packer's Pick<figcaption>
+</figure>
 
 ## Take #1: 
 
