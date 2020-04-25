@@ -4,7 +4,7 @@ title:  "2020 Packers Draft"
 author: S J W
 thumbnail: /assets/images/tommikethumb.jpg
 permalink: /stevepackersdraft/
-published: false
+published: true
 ---
 
 # Making Sense of the First Round Pick
@@ -13,7 +13,7 @@ The Green Bay Packers were 13-3 last year, in the NFC Championship, have a 36 ye
 Unsurprisingly, the majority of Packer fans and anti-Packer fans (vile people that typically are fans of other teams such as the Bears or Bengals, and who really know what the hell they’re talking about considering their franchises have so many Super Bowl rings) alike are ripping the pick and think it’s the dumbest decision made to date in the draft. Well, to avoid me losing my mind, I’m going to address the most common takes as to why people seem to hate the pick, and help you sleep better at night as a result.
 
 <figure style= "float:right">
-  <img src="/assets/images/jordan_love.jpg" alt="jordanlove">
+  <img src="/assets/images/jordan_love.jpg" alt="jordanlove" style="border-radius: 8px">
   <figcaption>Packers First Round Pick</figcaption>
 </figure>
 
