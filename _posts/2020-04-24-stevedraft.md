@@ -61,6 +61,6 @@ I could keep going on about idiotic takes that are made to make this pick look b
 
 ## In Closing
 
->Finally, things always go back to, **have you gotten better than your divisional >opponents in the offseason?**
+>Finally, things always go back to, **have you gotten better than your divisional opponents in the offseason?**
 
 The Vikings let their top 2 CB’s go, traded away their top WR, drafted the 2nd coming of Treadwell (a 1st round bust of theirs 4 years ago or so) in round 1 with the pick they got in the trade, and then took some other no talent assclown with their other 1st round pick.  The Bears…. They didn’t pick in the first round because they whored themselves out to be able to waste Khalil Mack’s career, signed our old TE Jimmy Graham who we cut, and traded for another QB to compete with their 2nd overall pick of a QB who can’t throw left. The Lions, well they are the Lions, and apparently have a head coach who is a closet sociopath and alienates his players in team meetings. Point is, the NFC North is all but locked up already, so **chill the hell out**.    
