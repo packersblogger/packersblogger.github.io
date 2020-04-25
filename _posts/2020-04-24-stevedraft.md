@@ -4,7 +4,7 @@ title:  "2020 Packers Draft"
 author: S J W
 thumbnail: /assets/images/tommikethumb.jpg
 permalink: /stevepackersdraft/
-published: true
+published: false
 ---
 
 The Green Bay Packers were 13-3 last year, in the NFC Championship, have a 36 year old future HOF QB, an obvious need in upgrading it’s offensive skill positions (the common folk take, not mine), and held the 30th pick in the 2020 NFL Draft which was considered to be one of the deepest WR drafts in recent memory. As the first round wound down, there were 6 WR’s already taken, and the Packers traded up to #26 (giving up a 4th rounder this year), and selected QB Jordan Love from Utah State. Didn’t fact check this, but saw something on Twitter that it was 15 years to the day that Rodgers was selected to become Favre’s heir apparent, continuing a long list of similarities between the 2 greatest QB’s of all time’s careers.
