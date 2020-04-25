@@ -9,6 +9,7 @@ published: true
 
 # Making Sense of the First Round Pick
 The Green Bay Packers were 13-3 last year, in the NFC Championship, have a 36 year old future HOF QB, an obvious need in upgrading it’s offensive skill positions (the common folk take, not mine), and held the 30th pick in the 2020 NFL Draft which was considered to be one of the deepest WR drafts in recent memory. As the first round wound down, there were 6 WR’s already taken, and the Packers traded up to #26 (giving up a 4th rounder this year), and selected QB Jordan Love from Utah State. Didn’t fact check this, but saw something on Twitter that it was 15 years to the day that Rodgers was selected to become Favre’s heir apparent, continuing a long list of similarities between the 2 greatest QB’s of all time.
+
 Unsurprisingly, the majority of Packer fans and anti-Packer fans (vile people that typically are fans of other teams such as the Bears or Bengals, and who really know what the hell they’re talking about considering their franchises have so many Super Bowl rings) alike are ripping the pick and think it’s the dumbest decision made to date in the draft. Well, to avoid me losing my mind, I’m going to address the most common takes as to why people seem to hate the pick, and help you sleep better at night as a result.
 
 <figure style= "position:relative">
