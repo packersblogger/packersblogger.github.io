@@ -15,7 +15,9 @@ Unsurprisingly, the majority of Packer fans and anti-Packer fans (vile people th
 <figcaption>Head Scratcher First Round Packer's Pick<figcaption>
 ## Take #1: 
 >### Last year the Packers were 13-3, in the NFC title game, and were 1 or 2 >players away from winning the Super Bowl….
+
 Anyone who thinks a team is ever one or two players away from winning a Super Bowl is not intelligent.  So it is not surprising that this initial take is coming from again, the Bear and Bengal fans who have had so much success in their storied franchises’ histories and think they have any idea what the hell they’re talking about – in case that isn’t clear, I think you are a moron if you are hating on the pick for this reason. 
+
 I am 100% confident my 7 year old nephew could come up with that analysis, so good job really using your brain to evaluate everything that goes into this selection – maybe that’s why the Bengals have lost in the Wild Card round to the Texans like 9 years in a row before succumbing to just being a waste of time and winning all of 2 games last year. How fucking embarrassing is that – like you have all these draft people and front office people, and the biggest decision you need to make in the offseason literally required 0 time or effort. They could have had Mel Kiper make the pick or left it up to the fans in the world to vote, and Joe Burrow would still have been selected. The Bears can just go straight to hell – you’re sitting there with a QB you traded up for when Mahomes (yes, the reigning MVP) and Deshaun Watson were both available – not to mention you haven’t won a Super Bowl since 1985 and prance around acting like you can be in the same breath of a conversation with the Packers as far as storied franchises. Go to hell Chicago, the only thing you’re good for is that you have gone like 16-4 vs the Packers the last 20 meetings, so keep up the good work in handing us 2 free wins a year. 
 
 ## Back to the Point
