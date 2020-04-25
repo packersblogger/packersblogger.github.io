@@ -46,17 +46,17 @@ The athletic profile for Jordan Love alone makes him a top 10 prospect in any dr
 
 I could keep going on about idiotic takes that are made to make this pick look bad, but let me just put the main points I want to emphasize/re-emphasize here in the closing of this since I’m going on 2,000 words and spent about 3 hours bitching at people last night over the same shit.
 
-    • Taking a QB in the 1st round and a WR in the 4th round (ideally a Quintez Cephus like) makes people lose their minds, but if we took a WR at 1 and a QB at 4, they’d be more comfortable because it addresses the “need” aspect of the draft more adequately in the plebeian’s mind.
+• Taking a QB in the 1st round and a WR in the 4th round (ideally a Quintez Cephus like) makes people lose their minds, but if we took a WR at 1 and a QB at 4, they’d be more comfortable because it addresses the “need” aspect of the draft more adequately in the plebeian’s mind.
       
-    • This is not Madden. This is not a fantasy draft. Because we didn’t draft somebody that you can go and get a new cool jersey of in the 1st round does not mean this was a bad pick. There is a level of value associated with every player – so why would the Packers take a guy at 30 overall that they see as having the same value as what they can get in the 2nd or later rounds?
+• This is not Madden. This is not a fantasy draft. Because we didn’t draft somebody that you can go and get a new cool jersey of in the 1st round does not mean this was a bad pick. There is a level of value associated with every player – so why would the Packers take a guy at 30 overall that they see as having the same value as what they can get in the 2nd or later rounds?
       
-    • **Rodgers window is not over**… ideally, he still plays his 3-4 years, both from his standpoint, and the Organization’s
+• **Rodgers window is not over**… ideally, he still plays his 3-4 years, both from his standpoint, and the Organization’s
       
-    • At a minimum he is playing 1, most likely 2 without any real controversy. Rodgers is in 0 danger of getting beat out anytime soon. But again, the NFL is one of the most unknown sport leagues in the world week by week and obviously even more so year to year.  Especially during a pandemic.
+• At a minimum he is playing 1, most likely 2 without any real controversy. Rodgers is in 0 danger of getting beat out anytime soon. But again, the NFL is one of the most unknown sport leagues in the world week by week and obviously even more so year to year.  Especially during a pandemic.
 
-    • Yes I wanted to draft a non-QB in the first round as well, but I fully trust Gutekunst to add plenty of value in the rest of the draft, and also outside of the draft (WHERE HE HAS BEEN HEAD AND SHOULDERS ABOVE EVERY OTHER GM IN THE NFL – and not just trades, but street FA guys)
+• Yes I wanted to draft a non-QB in the first round as well, but I fully trust Gutekunst to add plenty of value in the rest of the draft, and also outside of the draft (WHERE HE HAS BEEN HEAD AND SHOULDERS ABOVE EVERY OTHER GM IN THE NFL – and not just trades, but street FA guys)
     
-    • I know it’s hard to not have a well-recognized name like a CeeDee Lamb especially with all the hype leading up to the draft, but if you want to draft that way, go be a Cowboys fan and enjoy never having even been to an NFC Championship game in over 20 years let alone a Super Bowl
+• I know it’s hard to not have a well-recognized name like a CeeDee Lamb especially with all the hype leading up to the draft, but if you want to draft that way, go be a Cowboys fan and enjoy never having even been to an NFC Championship game in over 20 years let alone a Super Bowl
 
 ## In Closing
 
