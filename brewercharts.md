@@ -4,5 +4,5 @@ title: Brewers Charts
 permalink: /brewerscharts/
 ---
 
-# NL Central Contenders 2019 Team ERA
+# NL Central Monthly Team ERA 2021
 {% include brewersERA.html %}
