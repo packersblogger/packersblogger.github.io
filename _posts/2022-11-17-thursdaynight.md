@@ -18,4 +18,4 @@ So like the rest of us Rodgers and Company keep trying.  Growth often happens in
 
 <figure style= "position:relative">
   <img src='https://media.giphy.com/media/Qc4i40SWi42rK/giphy.gif' alt="bezos" style="border-radius: 8px">
-<figcaption>Timed His Exit Perfectly<figcaption>
+<figcaption>He Throws Nothing but Touchdowns<figcaption>
