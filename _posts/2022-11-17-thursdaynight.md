@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TNF DNDY"
+title:  "TNF Do.Not.Doubt.Yourself."
 author: R C W
 thumbnail: /assets/images/tommikethumb.jpg
 permalink: /tnfdndy/
