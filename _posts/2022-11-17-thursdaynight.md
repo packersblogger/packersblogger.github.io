@@ -17,5 +17,5 @@ So like the rest of us Rodgers and Company keep trying.  Growth often happens in
 
 
 <figure style= "position:relative">
-  <img src='https://tenor.com/view/risa-bezos-speedball-gif-19767177' alt="bezos" style="border-radius: 8px">
+  <img src='https://media.giphy.com/media/Qc4i40SWi42rK/giphy.gif' alt="bezos" style="border-radius: 8px">
 <figcaption>Timed His Exit Perfectly<figcaption>
