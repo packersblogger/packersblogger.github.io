@@ -20,7 +20,7 @@ avatar: "/assets/images/tom_title100.jpg/"
 description: >- # this means to ignore newlines until "baseurl:"
   Yon Yonsons blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yonyonsons.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yonyonsons.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: r3weber
 github_username:  packersblogger
 # Disqus Comments
